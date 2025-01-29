@@ -11,11 +11,12 @@ This Chrome extension automatically redirects `open.spotify.com` links to the of
 ---
 
 ## How to Use
-1. Clone or download this repository to your computer.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer mode** (toggle located at the top-right corner).
-4. Click **Load unpacked** and select the folder where you downloaded the extension.
-5. The extension will now be loaded into Chrome. Ensure it is enabled.
+1. Download the compressed .zip from the releases section on the right, by clicking on "Initial release" and then `spotify-redirect-chrome.zip`
+2. Right-click it and select Extract All (Windows) or just double-click it (macOS). This will create a new folder with the extension files
+3. Open Chrome and go to `chrome://extensions/`
+4. Enable **Developer mode** (toggle located at the top-right corner)
+5. Click **Load unpacked** and select the folder where you extracted the extension .zip file
+6. The extension will now be loaded into Chrome. Ensure it is enabled
 
 ---
 
