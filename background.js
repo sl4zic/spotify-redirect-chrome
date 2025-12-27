@@ -7,6 +7,6 @@ chrome.runtime.onMessage.addListener((message, sender) => {
             } catch (error) {
                 console.log('Tab already closed:', error);
             }
-        }, 300); // Increased delay to handle protocol handler dialog
+        }, 5000); // Increased delay to handle protocol handler dialog
     }
 });
